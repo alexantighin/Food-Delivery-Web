@@ -68,7 +68,7 @@ Accesarea aplicatiei web:
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/GM4BVBL/Screenshot-6.png">
+  <img src="https://i.ibb.co/K0xP9K6/Screenshot-7.png">
 </p>
 
 
