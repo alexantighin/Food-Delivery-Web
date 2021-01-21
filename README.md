@@ -53,7 +53,6 @@ Accesarea aplicatiei web:
 <p align="center">
   <img src="Baza de date/logical.jpg">
 </p>
-[Diagrama Relationala](Baza de date/relational.jpg)
 
 #### Diagrama Relationala
 
