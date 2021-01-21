@@ -48,23 +48,21 @@ Accesarea aplicatiei web:
 - Aplicatia web se acceseaza din browser prin http://localhost/Food_delivery./
 
 ## Structura si inter-relationarea tabelelor
-[Persoana](#Persoana)
-
-## Interfata
-  - [Data](Baza de date/logical.jpg)
-  
-[Diagrama Logica](Baza de date/logical.jpg)
+#### Diagrama Logica
 
 <p align="center">
   <img src="Baza de date/logical.jpg">
 </p>
 [Diagrama Relationala](Baza de date/relational.jpg)
 
-
+#### Diagrama Relationala
 
 <p align="center">
   <img src="Baza de date/relational.jpg">
 </p>
+
+## Interfata
+
 
 
 
