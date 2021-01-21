@@ -27,9 +27,13 @@ Tabelele din această aplicație sunt:
 În proiectarea acestei baze de date s-au identificat tipurile de relatii 1:1, 1:n, n:1 si n:n.
 
 Între tabelele categorii și produse se întâlnește o relație de tip 1:n, deoarece o categorie poate avea mai multe produse. De exemplu, categoria de ’Pizza’ poate avea produse precum ’Pizza Al Tono’ și ’Pizza Superdeluxe’. Reciproca însă nu este valabilă, deoarece un produs nu poate să fie în mai multe categorii. Legatura dintre cele două tabele este realizată prin câmpul id_categorie.
+
 Între utilizatori și produse există o relație n:n, deoarece un utilizator poate cumpăra mai multe produse, dar același produs poate fi cumpărat de mai mulți utilizatori. Această relație este împărțită în 2 relații 1:n și legatura dintre cele două tabele se realizează cu ajutorul tabelei cos care contine cheia primară a fiecarei din cele doua tabele.
+
 Între utilizatori și detalii_utilizatori există o relație 1:1, deoarece un utilizator poate avea un singur set de detalii și detaliile unui utilizator aparțin unui singur utilizator. Legatura dintre cele două tabele se realizaează prin câmpul id_utilizator.
+
 Între comenzi și utilizatori există o relație n:1 pentru că un utilizator poate face mai multe comenzi, dar o comandă nu poate fi făcută de mai mulți utilizatori. Legaura dintre cele două tabele se realizează prin câmpul id_utilizator.
+
 Între comenzi și produse există o relație n:n, deoarece o comandă poate conține mai multe produse, dar un produs se poate afla în mai multe comenzi. Această relație este împărțită în 2 relații 1:n și legatura dintre cele două tabele se realizează cu ajutorul tabelei produse_din_comanda care conține cheia primara a fiecarei din cele două tabele.
 
 ## Tehnologii folosite
