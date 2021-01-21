@@ -55,7 +55,7 @@ Accesarea aplicatiei web:
 [Diagrama Relationala](#relational.png)
 
 <p align="center">
-  ![Logical](logical.png)
+  ![Logical](Baza de date/logical.jpg)
 </p>
 
 <p align="center">
