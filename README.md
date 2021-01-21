@@ -40,6 +40,7 @@ Intre comenzi si produse exista o renalia n:n, deoarece o comanda poate contine 
 - XAMPP
 
 Conexiunea la baza de date se realizeaza prin comanda mysqli_connect();
+
 Accesarea aplicatiei web:
 - Se copie fisierul Food_Delivery in C:\xampp\htdocs
 - Se creaza in phpMyAdmin o baza de date cu numele antighin
