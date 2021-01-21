@@ -51,6 +51,7 @@ Accesarea aplicatiei web:
 [Persoana](#Persoana)
 
 ## Interfata
+  - [Data](Baza de date/logical.jpg)
 [Diagrama Logica](Baza de date/logical.jpg)
 <p align="center">
   <img src="Baza de date/logical.jpg">
