@@ -51,16 +51,19 @@ Accesarea aplicatiei web:
 [Persoana](#Persoana)
 
 ## Interfata
-[Diagrama Logica](#logical.png)
-[Diagrama Relationala](#relational.png)
+[Diagrama Logica](Baza de date/logical.jpg)
+<p align="center">
+  <img src="Baza de date/logical.jpg">
+</p>
+[Diagrama Relationala](Baza de date/relational.jpg)
+
+
 
 <p align="center">
-  ![Logical](Baza de date/logical.jpg)
+  <img src="Baza de date/relational.jpg">
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/DQRnwqR/Screenshot-4.png">
-</p>
+
 
 
 
