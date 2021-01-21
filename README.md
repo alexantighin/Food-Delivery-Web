@@ -63,6 +63,14 @@ Accesarea aplicatiei web:
 
 ## Interfata
 
+<p align="center">
+  <img src="https://i.ibb.co/4sDy3Gc/Screenshot-5.png">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/GM4BVBL/Screenshot-6.png">
+</p>
+
 
 
 
